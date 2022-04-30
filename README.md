@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Vue 2, TypeScript, Angular.
 
-_🍀 I'm nothing more a spirit playing around in this whold wide world._
+_🍀 I'm nothing more a spirit playing around in this whole wide world._
 
 💞 Thank you for passing by.
 
