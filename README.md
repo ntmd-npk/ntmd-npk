@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Vue 2, Angular
+
+_🍀 I'm nothing more a spirit playing around in this whold wide world_
+
+💞 Thank you for passing by.
+
 <!--
 **ntmd-npk/ntmd-npk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
