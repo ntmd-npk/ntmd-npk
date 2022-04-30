@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Vue 2, Angular
+🌱 I’m currently learning Vue 2, TypeScript, Angular.
 
-_🍀 I'm nothing more a spirit playing around in this whold wide world_
+_🍀 I'm nothing more a spirit playing around in this whold wide world._
 
 💞 Thank you for passing by.
 
